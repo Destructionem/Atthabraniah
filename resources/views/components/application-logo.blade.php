@@ -1,0 +1,1 @@
+<img {{ $attributes->merge(['class' => 'h-16 w-16 object-contain']) }} src="{{ asset('images/logo.png') }}" alt="Logo Pondok Pesantren At-Thabraniah">
